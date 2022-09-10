@@ -11,3 +11,7 @@
 - [Color Picker](https://marketplace.visualstudio.com/items?itemName=anseki.vscode-color) - Helper with GUI to generate color codes such as CSS color notations.
 - [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) - A simple extension to make indentation more readable.
 - [Rainbow Brackets](https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets) - Provide rainbow colors for the round brackets, the square brackets and the squiggly brackets. 
+
+<!-- H-Atefi Extensions -->
+- [markdownlint](https://github.com/DavidAnson/vscode-markdownlint) - Markdown linting and style checking for Visual Studio Code.
+- [XML](https://github.com/redhat-developer/vscode-xml) - XML Language Support by Red Hat.
