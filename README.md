@@ -11,3 +11,12 @@
 - [Color Picker](https://marketplace.visualstudio.com/items?itemName=anseki.vscode-color) - Helper with GUI to generate color codes such as CSS color notations.
 - [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) - A simple extension to make indentation more readable.
 - [Rainbow Brackets](https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets) - Provide rainbow colors for the round brackets, the square brackets and the squiggly brackets. 
+
+
+
+
+
+#### Payam Extensions
+
+- [New Moon Theme](https://github.com/taniarascia/new-moon-vscode) - The optimized dark theme for web development. Your new favorite theme.
+- [Vue Language Features](https://github.com/johnsoncodehk/volar) - Language support for Vue 3.
