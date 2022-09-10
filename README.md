@@ -1,5 +1,6 @@
 # VSCODE EXTENSIONS
 
+لیست Extension های پیشنهادی شما برای معرفی و آموزش در اتاق مربوطه
 
 ## List of Extensions
 
